@@ -1,4 +1,4 @@
-# IG Bulk Block
+# IG Bulk Block - Mass block Instagram users without app
 
 A browser console script that bulk-blocks Instagram accounts from your official Instagram data export (`followers_*.json` / `following.json`) — directly in Chrome, using your logged-in session. No extension, no installation, no password sharing.
 
